@@ -7,7 +7,6 @@ var dcCustom = {
   filterBuilder: require('./filter-builder'),
   selectControl: require('./select-control'),
   dynatableComponent: require('./dynatable-component'),
-  datatablesComponent: require('./datatables-component'),
   audioDash: require('./audio-dash')
 }
 
